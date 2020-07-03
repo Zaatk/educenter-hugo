@@ -81,7 +81,7 @@ contact_form_action = "contact@zaatk.com"
 description = "ZAATK - Personal Development"
 email = "admin@zaatk.com"
 google_analitycs_id = ""
-logo = "images/logo.png"
+logo = "/images/zaatk-logo-3d-150-50.png"
 mobile = "00201004825802"
 top_header = true
 [params.map]
