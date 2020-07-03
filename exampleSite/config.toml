@@ -1,4 +1,4 @@
-baseURL = "https://zaatk.com"
+baseURL = "https://zaatk.netlify.app"
 disableLanguages = []
 disqusShortname = "educenter"
 paginate = "6"
