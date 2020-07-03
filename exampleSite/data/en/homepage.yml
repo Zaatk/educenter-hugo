@@ -32,12 +32,13 @@ slider:
       link: blog
 banner_feature:
   enable: true
-  image: images/banner/banner-feature.png
+  image: "/images/zaatk-com-banner-feature.jpg"
   feature_item:
-  - name: Scholorship News
+  - name: Personality
     icon: ti-book
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+    content: People differ in form, appearance, substance, opinions and tastes, and
+      this is a mercy. BUT that makes it complicated in relations with everyone to
+      environmental, societal, intellectual and beliefs.
   - name: Our Notice Board
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
