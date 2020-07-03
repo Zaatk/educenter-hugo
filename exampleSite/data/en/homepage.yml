@@ -18,7 +18,7 @@ slider:
     animation_out: right
     button:
       enable: true
-      label: Apply now
+      label: Resources
       link: Resources
   - title: Always stay motivated and inspired to stay on top
     content: |-
