@@ -35,10 +35,6 @@ name = "scholarship"
 URL = "research"
 name = "research"
 [[menu.main]]
-URL = "Resources"
-name = "Resources"
-weight = ""
-[[menu.main]]
 URL = "about"
 name = "About"
 weight = 1
@@ -46,6 +42,10 @@ weight = 1
 URL = "course"
 name = "course"
 weight = 2
+[[menu.main]]
+URL = "Resources"
+name = "Resources"
+weight = ""
 [[menu.main]]
 hasChildren = true
 name = "Pages"
