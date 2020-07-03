@@ -35,6 +35,10 @@ name = "scholarship"
 URL = "research"
 name = "research"
 [[menu.main]]
+URL = "Resources"
+name = "Resources"
+weight = ""
+[[menu.main]]
 URL = "about"
 name = "About"
 weight = 1
