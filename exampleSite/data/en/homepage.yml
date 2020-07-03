@@ -20,16 +20,16 @@ slider:
       enable: true
       label: Apply now
       link: Resources
-  - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
+  - title: Always stay motivated and inspired to stay on top
+    content: |-
+      STAY ON TOP
+      More important than success itself, and motivation is the most important factor to stay on top in all of your daily affairs, from your interactions with people to your studies to your work.
     animation_in: left
     animation_out: right
     button:
       enable: true
-      label: Apply now
-      link: contact
+      label: Blog
+      link: blog
 banner_feature:
   enable: true
   image: images/banner/banner-feature.png
