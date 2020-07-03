@@ -9,7 +9,7 @@ slider:
     animation_out: right
     button:
       enable: true
-      label: Apply now
+      label: contact
       link: contact
   - title: Make your goals easy to achieve
     content: All you need you gonna find it here to make it easy, if it just more
