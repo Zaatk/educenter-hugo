@@ -43,10 +43,11 @@ banner_feature:
     icon: ti-blackboard
     content: Always know, whatever your faults, don't underestimate yourself in front
       of anyone, no matter how important they are to you, because
-  - name: Our Achievements
+  - name: 'Motivation '
     icon: ti-agenda
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+    content: is the main reason for any individual's success. He is the reason for
+      knowing what is new, searching for developing skills and increasing efficiency
+      in his work for that
   - name: Admission Now
     icon: ti-write
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
