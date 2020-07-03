@@ -12,8 +12,8 @@ slider:
       label: Apply now
       link: contact
   - title: Make your goals easy to achieve
-    content: All you need you gonna find it here to make it easy, you just check our
-      blog for more knowledge, tips, and tools at the resource page.
+    content: All you need you gonna find it here to make it easy, if it just more
+      knowledge, tips, and tools its all at the resource page.
     animation_in: left
     animation_out: right
     button:
