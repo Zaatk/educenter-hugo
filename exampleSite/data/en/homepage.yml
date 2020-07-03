@@ -48,10 +48,11 @@ banner_feature:
     content: is the main reason for any individual's success. He is the reason for
       knowing what is new, searching for developing skills and increasing efficiency
       in his work for that
-  - name: Admission Now
+  - name: managing
     icon: ti-write
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+    content: Management of your affairs is the key to your regularity of success,
+      as it of course begins with controlling your personality, words, and behaviors,
+      and for this reason we made Personality No. 1 in this process.
 about:
   enable: true
   title: About Educenter
