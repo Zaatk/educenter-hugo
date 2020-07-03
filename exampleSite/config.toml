@@ -47,6 +47,14 @@ hasChildren = true
 name = "Pages"
 weight = 3
 [[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 5
+[[menu.main]]
+URL = "blog"
+name = "blog"
+weight = 4
+[[menu.main]]
 URL = "teacher"
 name = "teacher"
 parent = "Pages"
@@ -66,23 +74,15 @@ parent = "Pages"
 URL = "research"
 name = "research"
 parent = "Pages"
-[[menu.main]]
-URL = "blog"
-name = "blog"
-weight = 4
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 5
 [params]
-address = "9567 Turner Trace Apt. BC C3G8A4"
-author = "Themefisher"
-contact_form_action = "#"
-description = "This is meta description"
-email = "info@educenter.com"
+address = "55110 whitebear lake, minnesota ,usa"
+author = "Adam"
+contact_form_action = "contact@zaatk.com"
+description = "ZAATK - Personal Development"
+email = "admin@zaatk.com"
 google_analitycs_id = ""
 logo = "images/logo.png"
-mobile = "+211234565523"
+mobile = "00201004825802"
 top_header = true
 [params.map]
 enable = true
