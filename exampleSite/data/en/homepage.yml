@@ -11,16 +11,15 @@ slider:
       enable: true
       label: Apply now
       link: contact
-  - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
+  - title: Make your goals easy to achieve
+    content: All you need you gonna find it here to make it easy, you just check our
+      blog for more knowledge, tips, and tools at the resource page.
     animation_in: left
     animation_out: right
     button:
       enable: true
       label: Apply now
-      link: contact
+      link: Resources
   - title: Your bright future is our mission
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
