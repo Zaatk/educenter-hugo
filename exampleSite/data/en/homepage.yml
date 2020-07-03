@@ -32,7 +32,7 @@ slider:
       link: blog
 banner_feature:
   enable: true
-  image: "/images/zaatk-com-banner-feature.jpg"
+  image: "/images/zaatk-com-banner-feature-1.jpg"
   feature_item:
   - name: Personality
     icon: ti-book
