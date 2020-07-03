@@ -78,13 +78,15 @@ cta:
     link: contact
 success_story:
   enable: true
-  bg_image: images/backgrounds/success-story.jpg
+  bg_image: "/images/zaatk-com-success-story.jpg"
   title: Success Stories
-  content: |-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
-
-    ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-  video_link: https://www.youtube.com/watch?v=ResipmZmpDU
+  content: "There are many Famous Failures to Success Stories That Will Inspire You
+    to keep going after your dreams, goals and your ambition.\nhere we are going to
+    mention some of them and how they were in lossers and useles in the other's eyes,
+    but Continuing to pursue your ambition, goal, and focus on your motivations and
+    principles is the reason for your step-by-step progress toward a better tomorrow\nfor
+    now please watch that video "
+  video_link: https://youtu.be/nvQKfdQvEBk
 event:
   enable: true
   title: Upcoming Events
