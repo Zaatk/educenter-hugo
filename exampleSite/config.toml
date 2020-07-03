@@ -1,6 +1,6 @@
 baseURL = "https://zaatk.netlify.app"
 disableLanguages = ["fr"]
-disqusShortname = "educenter"
+disqusShortname = "zaatk"
 paginate = "6"
 summaryLength = "10"
 theme = "educenter-hugo"
