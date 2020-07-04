@@ -2,6 +2,10 @@
 bg_image = "/images/zaatk-com-backgroung-page.jpg"
 description = "We are a team of friends, engineers in computer science, programming and civil engineering, have prepared for this ZAATK online platform that aims to work on personal development that helps anyone learn business, software, technology and creative skills to achieve personal and professional goals."
 title = "About Us"
+[menu.main]
+URL = "about"
+name = "About"
+weight = 1
 
 +++
 ## We are happy to see you here.
