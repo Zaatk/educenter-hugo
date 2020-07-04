@@ -91,7 +91,7 @@ event:
   enable: true
   title: Upcoming Events
 funfacts:
-  enable: false
+  enable: true
   funfact_item:
   - name: TEACHERS
     count: "60"
