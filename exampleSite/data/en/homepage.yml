@@ -96,7 +96,7 @@ funfacts:
   - name: TEACHERS
     count: "20"
   - name: COURSES
-    count: "50"
+    count: "4"
   - name: STUDENTS
     count: "1000"
   - name: SATISFIED CLIENT
