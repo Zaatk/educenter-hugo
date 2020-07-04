@@ -1,23 +1,45 @@
 ---
-title: "About Us"
-draft: false
-# page title background image
-bg_image: "images/backgrounds/page-title.jpg"
-# about image
-image: "images/about/about-page.jpg"
-# meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+title: About Us
+bg_image: "/images/zaatk-com-banner.jpg"
+image: images/about/about-page.jpg
+description: We are a team of friends, engineers in computer science, programming
+  and civil engineering, have prepared for this ZAATK online platform that aims to
+  work on personal development that helps anyone learn business, software, technology
+  and creative skills to achieve personal and professional goals.
+
 ---
+## We are happy to see you here.
 
-## ABOUT OUR JOURNY
+  
+We are a team of friends, engineers in computer science, programming and civil engineering, have prepared for this ZAATK online platform that aims to work on personal development that helps anyone learn business, software, technology and creative skills to achieve personal and professional goals.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet consectetur,
-adipisicing elit. Saepe ipsa illo quod veritatis, magni debitis fugiat dolore voluptates! Consequatur,
-aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat perferendis sint optio similique.
-Et amet magni facilis vero corporis quos.
+We just here to help you learn the skills you need to achieve your goals, no matter big or simple, near-term or long-term goals, all you need is only strong will, self-motivation and inspiration, and this will also be covered in our articles and supported by the most important sources of free and paid services and the most beneficial to you so that you can achieve yourself.
 
-exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum, dolor sit amet consectetur
-adipisicing elit. Ipsum a, facere fugit error accusamus est officiis vero in, nostrum laboriosam corrupti
-explicabo, cumque repudiandae deleniti perspiciatis quae consectetur enim. Laboriosam!
+We believe in continuous self-improvement and developing our own leadership skills:
+
+* Invest in your own learning by reading, listening, asking, noticing, taking things apart, networking, teaching, subscribing, training, browsing, and exploring
+  * Seek out feedback from others and opportunities for personal growth
+  * Expose yourself to new things, even if they don’t directly help your job today
+  * Compete against yourself – not others – to take each of your skills to the next level
+* Develop your own leadership skills – it’s everyone’s business to be a leader
+  * Lead by example
+  * Find passion and joy in your work
+  * Take initiative and ownership
+  * Approach everything with a positive attitude, enthusiasm, and optimism
+
+## Training Programs and Resources
+
+we offer programs and resources, popular books and tapes on business, self-improvement, interpersonal relationships, and other topics We offer several courses each year on topics in business, management, personal growth, programming, healthy relationships, and financial planning.
+
+self-improvement website that publishes unique and inspiring content to help people live a better life at the personal and professional levels.Behind this website is a great team of writers and video creators who passionately love to discuss important self-improvement topics, such as programs we offer.
+
+## Growth and personal development aren’t easy, it’s something you work at.
+
+We believe that the best way to improve is by sharing. Learning from others’ mistakes and past experiences enhance our own knowledge and can help us reach our goals sooner.  
+Life is going to throw us some pretty big challenges. If we haven’t mastered the small ones, we don’t stand much of a chance with the bigger ones.
+
+Be an overcomer! Embrace self-improvement! Here’s an empowering thought. The choice is yours! Start today to becoming the person you want to be to have the life you desire.
+
+**Wishing you the best!**
+
+## **ZAATK TEAM**
