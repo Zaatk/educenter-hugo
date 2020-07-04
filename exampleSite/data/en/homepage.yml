@@ -94,7 +94,7 @@ funfacts:
   enable: true
   funfact_item:
   - name: TEACHERS
-    count: "60"
+    count: "20"
   - name: COURSES
     count: "50"
   - name: STUDENTS
