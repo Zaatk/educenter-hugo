@@ -2,7 +2,7 @@
 title: contact us
 bg_image: "/images/zaatk-com-backgroung-page.jpg"
 description: Get in touct, we always happy to hear from you, so Feel free to email
-  usز
+  us.
 menu:
   main:
     name: Contact
