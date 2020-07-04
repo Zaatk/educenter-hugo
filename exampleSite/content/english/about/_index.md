@@ -1,6 +1,6 @@
 ---
 title: About Us
-bg_image: "/images/zaatk-com-banner.jpg"
+bg_image: "/images/zaatk-com-backgroung-page.jpg"
 image: images/about/about-page.jpg
 description: We are a team of friends, engineers in computer science, programming
   and civil engineering, have prepared for this ZAATK online platform that aims to
